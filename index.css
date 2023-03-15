@@ -1,0 +1,22 @@
+*{
+    background-color: hsl(212, 45%, 89%);
+    
+}
+.card{
+    width: 20rem;
+    margin-top: 120px;
+}
+.card-title{
+    color: hsl(218, 44%, 22%);
+}
+p{
+    font-size: 15px;
+    font-weight: 400;
+}
+.btn{
+    margin-left: 5rem;
+}
+#info{
+    text-align: center;
+    margin-top: 10px;
+}
